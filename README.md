@@ -1,2 +1,12 @@
 # Go-Go-Query
 This project is a Business Application Development system built with Java, implementing GUI and database integration. It is structured into multiple packages for clear separation of concerns and supports user registration, login, role management, shopping features, and transaction handling, providing both shopper and manager functionalities. The project was developed together with my teammate.
+## Screenshots
+
+### Login Page
+![Login Page](./images/login.png)
+
+### Alert
+![Alert](./images/alert.png)
+
+### Home Page
+![Home Page](./images/home.png)
