@@ -3,10 +3,13 @@ This project is a Business Application Development system built with Java, imple
 ## Screenshots
 
 ### Login Page
-![Login Page](./images/login.png)
+<img width="944" height="596" alt="image" src="https://github.com/user-attachments/assets/a82680e0-7e5a-4eb1-a095-616e0d4d6cf6" />
+
 
 ### Alert
-![Alert](./images/alert.png)
+<img width="672" height="532" alt="image" src="https://github.com/user-attachments/assets/577c00a9-5173-4760-93a4-012923263b7f" />
+
 
 ### Home Page
-![Home Page](./images/home.png)
+<img width="944" height="594" alt="image" src="https://github.com/user-attachments/assets/b4802b1a-ac8e-4e6a-86fb-3972d72ea8c8" />
+
