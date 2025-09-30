@@ -12,6 +12,6 @@ This project is a Business Application Development system built with Java, imple
 
 ### Home Page
 
-[<img src=[<img src="./images/logo.png" width="20" style="vertical-align:middle; margin-right:5px;"> LINK FIGMA](https://figma.com/file/xxx)
+[<img src="./images/logo.png" width="20" style="vertical-align:middle; margin-right:5px;"> LINK FIGMA](https://figma.com/file/xxx)
  width="20" style="vertical-align:middle; margin-right:5px;"> LINK FIGMA](https://www.figma.com/design/wi6xx3Nxc1mUv25IO9mdOY/Kelompok-10---Project--Prototype-?node-id=0-1&t=hp0W4CL9JZDnqsdS-1)
 
